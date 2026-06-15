@@ -1,0 +1,12 @@
+{
+  "id": "015b93a8-8112-4745-a236-ec195a49c9c1",
+  "createdAt": "2026-06-14T16:34:13.298Z",
+  "updatedAt": "2026-06-14T16:34:13.298Z",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Explain data retention policies",
+      "timestamp": "2026-06-14T16:34:13.298Z"
+    }
+  ]
+}

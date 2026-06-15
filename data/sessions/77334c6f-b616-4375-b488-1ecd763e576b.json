@@ -1,0 +1,19 @@
+{
+  "id": "77334c6f-b616-4375-b488-1ecd763e576b",
+  "createdAt": "2026-06-14T21:42:58.758Z",
+  "updatedAt": "2026-06-14T21:43:02.473Z",
+  "messages": [
+    {
+      "role": "user",
+      "text": "What are GDPR compliance requirements?",
+      "timestamp": "2026-06-14T21:42:58.758Z"
+    },
+    {
+      "role": "bot",
+      "text": "[CONCEPT SUMMARY]: GDPR compliance requires organizations to demonstrate valid consent for data processing, ensuring data subjects have genuine choice and control. It also mandates the implementation of technical and organizational measures, such as pseudonymization and data minimization, to protect personal data.\n\n[LEGAL CITATION]: Source: Regulation (EU) 2018/1725, Recital 48; GDPR, Article 6.\n\n[PRACTICAL IMPLICATION]:\n*   Organizations must obtain explicit and informed consent from individuals before processing their personal data.\n*   Companies need to implement robust technical and organizational safeguards, including data protection by design and by default, to secure personal data.\n*   Controllers are responsible for demonstrating compliance with GDPR principles, which can include adhering to approved certification mechanisms.",
+      "timestamp": "2026-06-14T21:43:02.473Z",
+      "intentName": null,
+      "confidence": 1
+    }
+  ]
+}

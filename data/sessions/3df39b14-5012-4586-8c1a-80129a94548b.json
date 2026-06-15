@@ -1,0 +1,19 @@
+{
+  "id": "3df39b14-5012-4586-8c1a-80129a94548b",
+  "createdAt": "2026-06-14T22:13:51.058Z",
+  "updatedAt": "2026-06-14T22:13:54.669Z",
+  "messages": [
+    {
+      "role": "user",
+      "text": "Explain data retention policies",
+      "timestamp": "2026-06-14T22:13:51.058Z"
+    },
+    {
+      "role": "bot",
+      "text": "[CONCEPT SUMMARY]: Under GDPR, personal data should not be kept longer than necessary for the purposes for which it was processed, adhering to the 'storage limitation' principle. Data may be retained for longer periods if processed solely for archiving, scientific, historical research, or statistical purposes, provided appropriate safeguards are in place.\n\n[LEGAL CITATION]: Source: GDPR, Article 5(1)(e)\n\n[PRACTICAL IMPLICATION]:\n*   Companies must establish clear data retention schedules based on the purpose of processing.\n*   Data processed based on consent must be deleted upon withdrawal of consent, unless another lawful basis for retention exists.\n*   Appropriate technical and organizational measures must be implemented to safeguard data retained for longer periods for specific purposes like archiving or research.",
+      "timestamp": "2026-06-14T22:13:54.669Z",
+      "intentName": null,
+      "confidence": 1
+    }
+  ]
+}

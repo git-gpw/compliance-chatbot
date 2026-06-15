@@ -1,0 +1,19 @@
+{
+  "id": "6330d814-01ea-4c16-86cf-d29259dbaa00",
+  "createdAt": "2026-06-14T21:48:15.606Z",
+  "updatedAt": "2026-06-14T21:48:19.414Z",
+  "messages": [
+    {
+      "role": "user",
+      "text": "What are GDPR compliance requirements?",
+      "timestamp": "2026-06-14T21:48:15.606Z"
+    },
+    {
+      "role": "bot",
+      "text": "[CONCEPT SUMMARY]: GDPR compliance requires organizations to implement robust technical and organizational measures, such as data protection policies, pseudonymisation, and encryption, to protect personal data. They must also demonstrate that valid consent was obtained from data subjects and provide easy mechanisms for consent withdrawal.\n\n[LEGAL CITATION]: Source: Regulation (EU) 2016/679 (GDPR), Article 5(3) and Article 9(2), point (g); Regulation (EU) 2024/1689 (AI Act), Recitals 69, 70, 71.\n\n[PRACTICAL IMPLICATION]:\n*   Companies must adopt data protection by design and by default, incorporating measures like anonymization and encryption throughout the data lifecycle.\n*   Organizations need to maintain clear records of consent, ensuring it is freely given, specific, informed, and unambiguous, and provide straightforward ways for individuals to withdraw consent.\n*   Processing special categories of personal data, even for purposes like bias detection in AI systems, must adhere to strict safeguards and conditions outlined in GDPR and other relevant regulations.",
+      "timestamp": "2026-06-14T21:48:19.414Z",
+      "intentName": null,
+      "confidence": 1
+    }
+  ]
+}

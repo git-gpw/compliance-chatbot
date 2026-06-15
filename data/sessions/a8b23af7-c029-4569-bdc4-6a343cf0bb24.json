@@ -1,0 +1,21 @@
+{
+  "id": "a8b23af7-c029-4569-bdc4-6a343cf0bb24",
+  "createdAt": "2026-06-14T22:39:54.862Z",
+  "updatedAt": "2026-06-14T22:39:56.106Z",
+  "messages": [
+    {
+      "role": "user",
+      "text": "[Uploaded: Compliance Checklist - Corporate Governance for Public Cos.pdf]",
+      "timestamp": "2026-06-14T22:39:54.862Z",
+      "fileName": "Compliance Checklist - Corporate Governance for Public Cos.pdf"
+    },
+    {
+      "role": "bot",
+      "text": "No response from agent.",
+      "timestamp": "2026-06-14T22:39:56.106Z",
+      "intentName": null,
+      "confidence": 1,
+      "sourceCount": 0
+    }
+  ]
+}

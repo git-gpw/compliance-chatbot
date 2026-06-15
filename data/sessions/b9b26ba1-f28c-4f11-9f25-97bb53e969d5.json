@@ -1,0 +1,19 @@
+{
+  "id": "b9b26ba1-f28c-4f11-9f25-97bb53e969d5",
+  "createdAt": "2026-06-14T21:39:14.323Z",
+  "updatedAt": "2026-06-14T21:39:18.053Z",
+  "messages": [
+    {
+      "role": "user",
+      "text": "can u give me the document refulation of gdpr",
+      "timestamp": "2026-06-14T21:39:14.323Z"
+    },
+    {
+      "role": "bot",
+      "text": "[CONCEPT SUMMARY]: The GDPR is Regulation (EU) 2016/679, enacted on April 27, 2016, and it governs the protection of personal data for individuals within the EU, facilitating the free movement of this data.\n\n[LEGAL CITATION]: Source: REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL - of 27 April 2016 - on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)\n\n[PRACTICAL IMPLICATION]:\n*   Organizations must adhere to specific rules when processing personal data of EU residents.\n*   Public authorities may disclose personal data in documents if mandated by Union or Member State law.\n*   The regulation aims to harmonize data protection laws across the EU.",
+      "timestamp": "2026-06-14T21:39:18.053Z",
+      "intentName": null,
+      "confidence": 1
+    }
+  ]
+}
