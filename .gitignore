@@ -1,7 +1,13 @@
+.DS_Store
 node_modules/
 dist/
 .env
-.env.local
+.env.*
+!.env.example
+!**/.env.example
+data/sessions/
+server/credentials/
 *.key.json
-service-account*.json
+*service-account*.json
+server/src/bbs-*.json
 bbs-2026-fwlab-group1-74ea507726bf.json

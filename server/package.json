@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
+    "setup": "node scripts/setup.js",
+    "predev": "node scripts/setup.js --check",
     "dev": "nodemon src/index.js",
+    "prestart": "node scripts/setup.js --check",
     "start": "node src/index.js"
   },
   "dependencies": {
